@@ -1,4 +1,4 @@
-package com.lendingclub.unittesting;
+package com.lendingclub.unittesting.statics;
 
 public class WidgetDao {
 	public static Widget getWidget() {
